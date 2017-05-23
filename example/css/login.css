@@ -1,0 +1,11 @@
+.form-horizontal {
+  background: #cfc7a3;
+  color: #fff;
+  padding: 10px;
+  margin-top: 50%;
+  border-radius: 5px;
+  -webkit-transition: all 100ms;
+  -o-transition: all 100ms;
+  -moz-transition: all 100ms;
+  transition: all 100ms;
+  opacity: 0.8; }
